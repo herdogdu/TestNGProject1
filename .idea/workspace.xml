@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0049ed14-cb7a-4c0c-a1ff-d6189b1684dd" name="Default Changelist" comment="New Project">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG Project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNG Project1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Tests.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0049ed14-cb7a-4c0c-a1ff-d6189b1684dd" name="Default Changelist" comment="New Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +32,14 @@
       <option name="presentableId" value="Default" />
       <updated>1595136145514</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Project">
+      <created>1595137099115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595137099115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -60,10 +47,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="New Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595137042533">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595137107621">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595137042533" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595137107621" />
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595136878235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
