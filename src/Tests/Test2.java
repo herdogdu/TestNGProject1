@@ -1,7 +1,7 @@
 package Tests;
 
 
-public class Test2 {
+public class Test2 extends BaseClass{
 
 
     /*
