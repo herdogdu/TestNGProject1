@@ -35,7 +35,7 @@ deneme Halit
     @Test
     @Parameters({"email","firstName","lastName"})
     public void createContact(String email, String firstName, String lastName) throws InterruptedException {
-        t
+
 
        // Click on contacts dropdown (on left top)
        // Click on contacts button
