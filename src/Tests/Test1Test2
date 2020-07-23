@@ -1,0 +1,18 @@
+<suite name="suite1">
+   <test name="test1">
+       <parameter name="email" value="sampleemail123@abcd.com"></parameter>
+       <parameter name="firstName" value="John"></parameter>
+       <parameter name="lastName" value="Smith"></parameter>
+       <parameter name="domain" value="bigcomp123$.com"></parameter>
+       <parameter name="companyName" value="Big Company"></parameter>
+
+       <classes>
+
+          <class name="Tests.Test1"></class>
+          <class name="Tests.Test2"></class>
+
+       </classes>
+
+   </test>
+
+</suite>

@@ -19,10 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0049ed14-cb7a-4c0c-a1ff-d6189b1684dd" name="Default Changelist" comment="Deneme1">
-      <change afterPath="$PROJECT_DIR$/src/Tests/BaseClass.java" afterDir="false" />
+    <list default="true" id="0049ed14-cb7a-4c0c-a1ff-d6189b1684dd" name="Default Changelist" comment="Final">
+      <change afterPath="$PROJECT_DIR$/src/Tests/Test1Test2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG Project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG Project1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadMe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/BaseClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tests/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tests/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tests/Test2.java" afterDir="false" />
     </list>
@@ -55,7 +61,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\halit\IdeaProjects\TestNG Project1\src\Tests" />
+      <recent name="C:\Users\halit\IdeaProjects\TestNG Project1\.idea\.idea" />
+      <recent name="C:\Users\halit\IdeaProjects\TestNG Project1\.idea" />
+      <recent name="C:\Users\halit\IdeaProjects\TestNG Project1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Test2">
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tests.Test1" />
       <module name="TestNG Project1" />
@@ -69,8 +83,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tests.Test2" />
+      <module name="TestNG Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1.createContact" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test1" />
+      <option name="METHOD_NAME" value="createContact" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.createCompany" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.Test2" />
+      <option name="METHOD_NAME" value="createCompany" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Test2" />
+        <item itemvalue="TestNG.Test1.createContact" />
+        <item itemvalue="TestNG.Test2.createCompany" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
@@ -100,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595137517192</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update1">
+      <created>1595221518078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595221518078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,9 +209,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Project" />
     <MESSAGE value="Deneme1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deneme1" />
+    <MESSAGE value="Update1" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="441" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595485566619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595485566619" />
     <state x="513" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1595172211269">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -129,37 +226,59 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595172104460" />
-    <state width="1286" height="149" key="GridCell.Tab.0.bottom" timestamp="1595217069584">
+    <state width="1286" height="40" key="GridCell.Tab.0.bottom" timestamp="1595490745568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595217069584" />
-    <state width="1286" height="149" key="GridCell.Tab.0.center" timestamp="1595217069583">
+    <state width="1286" height="40" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745568" />
+    <state width="1286" height="40" key="GridCell.Tab.0.center" timestamp="1595490745568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="149" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595217069583" />
-    <state width="1286" height="149" key="GridCell.Tab.0.left" timestamp="1595217069583">
+    <state width="1286" height="40" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745568" />
+    <state width="1286" height="40" key="GridCell.Tab.0.left" timestamp="1595490745568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="149" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595217069583" />
-    <state width="1286" height="149" key="GridCell.Tab.0.right" timestamp="1595217069583">
+    <state width="1286" height="40" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745568" />
+    <state width="1286" height="40" key="GridCell.Tab.0.right" timestamp="1595490745568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="149" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595217069583" />
+    <state width="1286" height="40" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745568" />
+    <state width="1286" height="40" key="GridCell.Tab.1.bottom" timestamp="1595490745569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="40" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745569" />
+    <state width="1286" height="40" key="GridCell.Tab.1.center" timestamp="1595490745569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="40" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745569" />
+    <state width="1286" height="40" key="GridCell.Tab.1.left" timestamp="1595490745569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="40" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745569" />
+    <state width="1286" height="40" key="GridCell.Tab.1.right" timestamp="1595490745569">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="40" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490745569" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1595172221012">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595172221012" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595137540517">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595221534539">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595221534539" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1595137540517" />
-    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595137566673">
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595490716805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595490716805" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1595137566673" />
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595136878235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1595136878235" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1595486321884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595486321884" />
   </component>
 </project>
