@@ -71,13 +71,16 @@ public class Test2 extends BaseClass {
         driver.findElement(By.xpath("//input[@data-selenium-test='property-input-name']")).clear();
         driver.findElement(By.xpath("//input[@data-selenium-test='property-input-name']")).sendKeys(companyName);
 //span[text()='Create contact']  //span[text()='Create company'][2]
-        driver.findElement(By.xpath("//button[@data-selenium-test='base-dialog-confirm-btn']")).click();
+        WebDriverWait wait = new WebDriverWait(driver , 20);
+
+        WebElement confirmComp=wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[@data-selenium-test='base-dialog-confirm-btn']")));
+        confirmComp.click();
 
         //Get the company domain
-        WebDriverWait wait = new WebDriverWait(driver , 20);
+
         WebElement getDomain =wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[@data-test-id='domain-input']")));
 
-       //System.out.println(getDomain.getText());
+       System.out.println("MY DOMAIN IS: "+getDomain.getText());
 
 
         Assert.assertEquals(getDomain.getText(),domain);
